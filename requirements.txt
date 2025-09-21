@@ -1,0 +1,6 @@
+sqlalchemy
+dotenv
+pydantic
+fastapi
+uvicorn
+typing
